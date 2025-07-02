@@ -1,0 +1,56 @@
+ECHO is on.
+.txt  
+.2-windows-amd64  
+.xml  
+ECHO is on.
+ECHO is on.
+.csv  
+ECHO is on.
+ECHO is on.
+.txt  
+ECHO is on.
+.txt  
+.adoc  
+.bash  
+.conf  
+.conf  
+.cmd  
+.exe  
+.sh  
+ECHO is on.
+.properties  
+ECHO is on.
+ECHO is on.
+ECHO is on.
+ECHO is on.
+ECHO is on.
+ECHO is on.
+.txt  
+.conf  
+ECHO is on.
+.cmd  
+ECHO is on.
+.cmd  
+ECHO is on.
+.jar  
+.license  
+ECHO is on.
+.xml  
+.xml  
+.properties  
+.properties  
+.jar  
+.license  
+.jar  
+.license  
+.jar  
+.license  
+ECHO is on.
+.jar  
+.license  
+.jar  
+.license  
+.jar  
+.license  
+.jar  
+.license  
